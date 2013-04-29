@@ -1,0 +1,192 @@
+﻿td.hdAinf {
+	text-align:center;
+	}
+#maxWidth {
+	width: 80%;
+	border: none;
+}
+.nobrk {
+	white-space:nowrap;
+	}
+tr.hideborder {
+	border-top: hidden; 
+	}
+td.hideborder {
+	border-width: 0px 1px 0px 0px; 
+	}
+th.hideborder {
+	border-width: 0px 1px 0px 0px; 
+	}
+td.PubListCell {
+	vertical-align: top;
+	}
+.BuyEmailList caption {
+    font-weight: 600;
+    font-size: small;
+    color: #000000;
+    font-family: Arial,Helvetica,Verdana,Helvetica,sans-serif;
+    background-color: #ccddbb;
+    height:16px;
+    vertical-align:middle;
+	}
+	
+href.BuyerListURL {
+	color: #001700;
+	font-weight:bold;
+}
+
+href.BuyerListURLNoBr {
+	color: #001700;
+	white-space:nowrap;
+	font-weight:bold;
+}
+
+BODY {
+	font-size: 12px;
+	color: #001700;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	}
+	
+	
+.sectionHeaderSmall
+{
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    font-size: 7pt;
+    color: #000000;
+    background-color: #fafadd;
+}
+	
+tr.sectionHeaderSmallCMA th{
+	padding-right: 6px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-weight: bold;
+	font-size: 8pt;
+	color: #000000;
+	background-color: #fafadd;
+	text-align:left;
+	white-space:nowrap;
+	line-height: 16px;
+	vertical-align:middle;
+	}
+
+tr.sectionHeaderSmall_PRD th
+{
+    padding-right: 3px;
+    padding-left: 2px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    font-size: 8pt;
+    color: #000000;
+    background-color: #fafadd;
+    text-align:left;
+}
+	
+	
+	
+.listItemGray {
+	background-color: #eeeeee; 
+	line-height: 16px; 
+	font-size: 8pt;
+	}
+.listItemWhite {
+	background-color: #ffffff; 
+	line-height: 16px; 
+	font-size: 8pt;
+	}
+.listItemSelected {
+	background-color: #99cccc; 
+	line-height: 16px; 
+	font-size: 8pt;
+	}
+	
+.listItemWCMA_Alt td{
+	background-color: #eeeeee; 
+	line-height: 16px; 
+	font-size:8px; 
+	color:#000000; 
+	border-width: 0px 1px 0px 0px; 
+	white-space:nowrap;
+	padding-right: 5px;
+}
+.listItemWCMA td{
+	background-color: #ffffff; 
+	line-height: 16px; 
+	font-size:8px; 
+	color:#000000; 
+	border-width: 0px 1px 0px 0px; 
+	white-space:nowrap;
+	padding-right: 5px;
+}
+
+.FooterRowWCMA td{
+	background-color: #ffffff; 
+	font-size: 10px;
+	color:#000000;	
+}
+	
+td.TableSpacer {
+	height: 8px;
+	}
+
+.BuyEmailListSummary caption {
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-weight: bold;
+	font-size: 10px;
+	color: #000000;
+	background-color: #fafadd;
+	text-align:center;
+	font-style: italic;
+	white-space:nowrap;
+	line-height: 12px;
+	vertical-align:middle;
+	}
+.listItemSummary td{
+	background-color: #ffffff; 
+	font-size:9px; 
+	color:#000000; 
+	border-width: 0px 0px 0px 0px; 
+	white-space:nowrap;
+}
+
+div.WCMAPropSumHead{
+    font-weight: 600;
+    font-size: small;
+    color: #000000;
+    font-family: Arial,Helvetica,Verdana,Helvetica,sans-serif;
+    background-color: #ccddbb;
+    height:16px;
+    vertical-align:middle;
+    text-align:center;
+    border-top-style:solid;
+    border-top-width:1px;
+    border-top-color:#006b3f;
+	}
+	
+th.toptitle
+{
+	font-weight: bold;
+	font-size: 10pt;
+	background: url(bg_title.gif) #006b3f repeat-x;
+	background-color:#006b3f;
+	color: white;
+	font-family: Arial,Helvetica,Verdana,Helvetica,sans-serif;
+	text-align: center;
+}
+
+table.WCMAProp{
+	border:solid 1px #006b3f;
+}
+
+td.WCMA_Main{
+	background-color:#006b3f;
+}
